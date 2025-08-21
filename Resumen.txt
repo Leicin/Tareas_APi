@@ -1,0 +1,10 @@
+Buenas tardes en este apartado hago una breve introducción el api esta en php nativo no esta en framework consta de 2 capas basicamente el modelo y controlador
+
+la cual separa como no hice la vista desde el mismo proyecto si no separado el frontend lo tengo en react
+
+http://localhost:8081/Api_solati/index.php/tasks-> esta es la ruta para consumir el api 
+
+
+
+
+En cuanto a la bd estoy en mysql porque no tengo posgres instalado
